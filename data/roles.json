@@ -1,0 +1,345 @@
+{
+  "roles": {
+    "frontend_engineer": {
+      "title": "Frontend Engineer",
+      "required_skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "TypeScript",
+        "Git",
+        "REST APIs",
+        "Responsive Design"
+      ],
+      "nice_to_have": [
+        "GraphQL",
+        "Next.js",
+        "Testing (Jest)",
+        "CI/CD",
+        "Accessibility (a11y)"
+      ]
+    },
+    "backend_engineer": {
+      "title": "Backend Engineer",
+      "required_skills": [
+        "Python",
+        "REST APIs",
+        "SQL",
+        "Git",
+        "Docker",
+        "Authentication",
+        "System Design"
+      ],
+      "nice_to_have": [
+        "Kubernetes",
+        "Message Queues",
+        "Redis",
+        "GraphQL",
+        "Microservices"
+      ]
+    },
+    "fullstack_engineer": {
+      "title": "Fullstack Engineer",
+      "required_skills": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL",
+        "REST APIs",
+        "Git",
+        "Docker",
+        "TypeScript"
+      ],
+      "nice_to_have": [
+        "GraphQL",
+        "Redis",
+        "CI/CD",
+        "Cloud (AWS/GCP/Azure)",
+        "Testing (Jest)"
+      ]
+    },
+    "software_engineer": {
+      "title": "Software Engineer",
+      "required_skills": [
+        "DSA",
+        "OOP",
+        "Problem Solving",
+        "Git",
+        "System Design",
+        "SQL",
+        "Python"
+      ],
+      "nice_to_have": [
+        "Dynamic Programming",
+        "Operating Systems",
+        "Computer Networks",
+        "C++",
+        "Java",
+        "Design Patterns"
+      ]
+    },
+    "competitive_programmer": {
+      "title": "Competitive Programmer",
+      "required_skills": [
+        "DSA",
+        "Dynamic Programming",
+        "Problem Solving",
+        "C++",
+        "Mathematics",
+        "Graph Theory"
+      ],
+      "nice_to_have": [
+        "Java",
+        "Python",
+        "Number Theory"
+      ]
+    },
+    "systems_programmer": {
+      "title": "Systems Programmer",
+      "required_skills": [
+        "C",
+        "C++",
+        "Operating Systems",
+        "Computer Networks",
+        "DSA",
+        "Linux",
+        "Bash Scripting"
+      ],
+      "nice_to_have": [
+        "Rust",
+        "Assembly",
+        "Kernel Development",
+        "Memory Management",
+        "Multithreading"
+      ]
+    },
+    "java_developer": {
+      "title": "Java Developer",
+      "required_skills": [
+        "Java",
+        "OOP",
+        "DSA",
+        "SQL",
+        "Git",
+        "REST APIs",
+        "Design Patterns"
+      ],
+      "nice_to_have": [
+        "Spring Boot",
+        "Microservices",
+        "Docker",
+        "Kubernetes",
+        "Maven"
+      ]
+    },
+    "python_developer": {
+      "title": "Python Developer",
+      "required_skills": [
+        "Python",
+        "OOP",
+        "DSA",
+        "SQL",
+        "Git",
+        "REST APIs"
+      ],
+      "nice_to_have": [
+        "Django",
+        "Flask",
+        "FastAPI",
+        "Docker",
+        "Testing (Jest)",
+        "Design Patterns"
+      ]
+    },
+    "data_scientist": {
+      "title": "Data Scientist",
+      "required_skills": [
+        "Python",
+        "Machine Learning",
+        "Statistics",
+        "Pandas",
+        "NumPy",
+        "SQL",
+        "Data Visualization"
+      ],
+      "nice_to_have": [
+        "Deep Learning",
+        "TensorFlow",
+        "PyTorch",
+        "Spark",
+        "MLOps",
+        "Airflow"
+      ]
+    },
+    "ml_engineer": {
+      "title": "ML Engineer",
+      "required_skills": [
+        "Python",
+        "Machine Learning",
+        "Deep Learning",
+        "TensorFlow",
+        "PyTorch",
+        "Docker",
+        "SQL"
+      ],
+      "nice_to_have": [
+        "MLOps",
+        "Airflow",
+        "Spark",
+        "Kubernetes",
+        "Scikit-learn",
+        "Statistics"
+      ]
+    },
+    "devops_engineer": {
+      "title": "DevOps Engineer",
+      "required_skills": [
+        "Docker",
+        "Kubernetes",
+        "CI/CD",
+        "Linux",
+        "Bash Scripting",
+        "Cloud (AWS/GCP/Azure)",
+        "Monitoring"
+      ],
+      "nice_to_have": [
+        "Terraform",
+        "Ansible",
+        "Prometheus",
+        "Grafana",
+        "System Design"
+      ]
+    },
+    "cloud_architect": {
+      "title": "Cloud Architect",
+      "required_skills": [
+        "Cloud (AWS/GCP/Azure)",
+        "System Design",
+        "Docker",
+        "Kubernetes",
+        "Networking",
+        "Security"
+      ],
+      "nice_to_have": [
+        "Terraform",
+        "Ansible",
+        "Microservices",
+        "CI/CD",
+        "Monitoring",
+        "Prometheus"
+      ]
+    },
+    "product_manager": {
+      "title": "Product Manager",
+      "required_skills": [
+        "Product Strategy",
+        "Roadmapping",
+        "User Research",
+        "Agile",
+        "Stakeholder Management",
+        "Data Analysis",
+        "Communication"
+      ],
+      "nice_to_have": [
+        "SQL",
+        "A/B Testing",
+        "Figma",
+        "OKRs",
+        "Technical Writing"
+      ]
+    },
+    "android_developer": {
+      "title": "Android Developer",
+      "required_skills": [
+        "Java",
+        "Kotlin",
+        "OOP",
+        "DSA",
+        "Git",
+        "REST APIs"
+      ],
+      "nice_to_have": [
+        "Jetpack Compose",
+        "Firebase",
+        "Testing (Jest)",
+        "CI/CD",
+        "Design Patterns"
+      ]
+    },
+    "ios_developer": {
+      "title": "iOS Developer",
+      "required_skills": [
+        "Swift",
+        "OOP",
+        "DSA",
+        "Git",
+        "REST APIs",
+        "Xcode"
+      ],
+      "nice_to_have": [
+        "SwiftUI",
+        "Objective-C",
+        "Firebase",
+        "CI/CD",
+        "Design Patterns"
+      ]
+    },
+    "cybersecurity_analyst": {
+      "title": "Cybersecurity Analyst",
+      "required_skills": [
+        "Computer Networks",
+        "Linux",
+        "Operating Systems",
+        "Authentication",
+        "Bash Scripting"
+      ],
+      "nice_to_have": [
+        "Python",
+        "C",
+        "Cryptography",
+        "Ethical Hacking",
+        "Firewalls",
+        "SIEM"
+      ]
+    },
+    "database_administrator": {
+      "title": "Database Administrator",
+      "required_skills": [
+        "SQL",
+        "NoSQL",
+        "MongoDB",
+        "PostgreSQL",
+        "System Design",
+        "Bash Scripting",
+        "Linux"
+      ],
+      "nice_to_have": [
+        "Redis",
+        "Data Visualization",
+        "Python",
+        "Cloud (AWS/GCP/Azure)",
+        "Monitoring"
+      ]
+    },
+    "game_developer": {
+      "title": "Game Developer",
+      "required_skills": [
+        "C++",
+        "OOP",
+        "DSA",
+        "Mathematics",
+        "Problem Solving",
+        "Git"
+      ],
+      "nice_to_have": [
+        "C#",
+        "Unity",
+        "Unreal Engine",
+        "Physics Simulation",
+        "Graphics Programming",
+        "Python"
+      ]
+    }
+  }
+}
